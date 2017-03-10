@@ -11,7 +11,7 @@ return [
      |
      */
     'supportsCredentials' => false,
-    'allowedOrigins' => ['datmusic.xyz', 'music.dev'],
+    'allowedOrigins' => ['mp3downld.com', 'music.dev'],
     'allowedHeaders' => ['*'],
     'allowedMethods' => ['*'],
     'exposedHeaders' => [],
